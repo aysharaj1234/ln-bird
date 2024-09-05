@@ -1,0 +1,559 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item {
+    font-size: 18px;
+    font-weight: 700;
+  margin: 10px;
+  gap: 5rem;
+}
+.container-fluid img{
+    height: 50px;
+    width: 50px;
+}
+.navbar-brand span{
+    font-weight: 700;
+    color: gray;
+}
+.navbar-brand{
+    color: gray;
+}
+.tt .btn{
+    margin-right: 20px;
+   border-radius: 15px;
+   margin-left: -560px;
+   
+}
+.icons{
+    font-size: 30px;
+    color: gray;
+   
+}
+.c{
+    font-size: 30px;
+    color: gray;
+}
+.aa{
+    font-size: 18px;
+    color: gray;
+
+}
+.ac{
+    font-size: 25px;
+    color: gray;
+  
+}
+.cc{
+    font-size: 25px;
+    color: gray;
+}
+.section-1{
+    height: 322px;
+    width: 330px;
+    background-color:lightblue;
+    margin-top: 70px;
+    border-radius: 10px;
+    border: 1px solid gray;
+
+}
+.section-1 img{
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    border-radius: 10px;
+    margin-left: 30px;
+    border: 1px solid black;
+}
+.btt button{
+    height: 40px;
+    width: 50px;
+    border-radius: 5px;
+    margin-left: 250px;
+ 
+}
+.btt{
+    margin-top: -90px;
+}
+.btt span{
+    font-size: 40px;
+    color: red;
+ 
+}
+button h2{
+    margin-top: -18px;
+}
+.btt h3{
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 60px;
+    margin-left: 25px;
+
+}
+ .test {
+    width: 336px;
+    margin-top: 40px;
+    margin-left: -20px;
+    font-size: 18px;
+    
+}
+.section-2 h3{
+    color: red;
+    font-weight: 400;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.section-2 i{
+    font-size: 30px;
+    margin-left: 250px;
+   
+}
+.a  {
+    margin-top: -30px;
+}
+.content h5{
+    font-weight: 600;
+    color: gray;
+    margin-left: 25px;
+}
+.content h5 span{
+    color: red;
+}
+.content h4{
+    margin-left: 25px;
+    font-size: 20px;
+}
+
+.contentt h5{
+    font-weight: 600;
+    color: gray;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.contentt h5 span{
+    color: red;
+}
+
+.contentt h4{
+    margin-left: 25px;
+    font-size: 20px;
+}
+.contenttt h4{
+    font-weight: 600;
+    color: gray;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.contenttt h5{
+    margin-left: 25px;
+    font-size: 20px;
+    color:  black;
+}
+.section-3 {
+    width: 100%;
+    height: 300px;
+    background-color: rgb(214, 212, 212);
+}
+.section-3 h2 {
+    font-size: 40px;
+    margin-top: 120px;
+    margin-left: 130px;
+}
+.cotainerr{
+    height: 90px;
+    width: 1277px;
+    background-color: white;
+    margin-left: 130px;
+    margin-top: 50px;
+  
+}
+
+.cotainerr img{
+    
+    height: 70px;
+    width: 70px;
+    margin-top: 10px;
+    margin-left: 18px;
+  
+}
+.cotainerr h4 {
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: -50px;
+}
+.cotainerr button{
+    float: right;
+    margin-top: -30px;
+    margin-right: 10px;
+}
+.section-4{
+    height: 990px;
+   
+    background-color: rgb(214, 212, 212);
+  
+
+  
+
+}
+.section-4 .div-1{
+    height: 400px;
+    width: 650px;
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 130px;
+    border: 1px solid #bec2c0;
+}
+.div-1 h2{
+    font-size: 40px;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.div-1 h3{
+    font-size: 25px;
+    color: gray;
+    margin-left: 20px;
+    margin-top: -10px;
+    font-weight: 400;
+}
+.div-1 h5{
+    margin-left: 20px;
+}
+.div-1 button{
+height: 10px;
+width: 200px;
+float: right;
+  border: 1px solid transparent;
+  background-color: lightseagreen;
+  margin-right: 10px;
+  margin-top: -24px;
+}
+.btu button{
+    height: 40px;
+    width: 90px;
+    background-color: gray;
+    margin-top: 10px;
+}
+.section-4 .div-2{
+    height: 200px;
+    width: 600px;
+    background-color: white;
+    margin-top: 30px;
+margin-left: 150px;
+  border: 1px solid #bec2c0;
+}
+.div-2 h4{
+    font-size: 35px;
+    margin-left: 20px;
+    padding-top: 40px;
+}
+.div-2 h5{
+    margin-left: 20px;
+    color: gray;
+   font-weight: 400;
+}
+
+
+.div-2 img{
+    height: 60px;
+    width: 60px;
+    margin-left: 19px;
+    border-radius: 30px;
+}
+
+.div-3{
+        height: 200px;
+        width: 600px;
+        background-color: white;
+        margin-top: -180px;
+        margin-left: 810px;
+        border: 1px solid #bec2c0;
+        
+}
+.div-3 h4{
+   font-size: 29px;
+   font-weight: 650;
+   margin-top: 30px;
+   margin-left: 8px;
+}
+.div-3 span{
+    color: gray;
+}
+.div-3 img {
+height: 80px;
+width: 80px;
+margin-left: 10px;
+}
+.div-4{
+    height: 490px;
+    width:650px;
+    background-color:white;
+    margin-left: 130px;
+    margin-top: 10px;
+    border: 1px solid #bec2c0;
+}
+.div-4 h3{
+    font-size: 35px;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.div-4 h4{
+    font-size: 20px;
+    margin-left: 20px;
+    color: gray;
+}
+.div-4 h5{
+    margin-left: 20px;
+}
+.div-4 h5 span{
+   color: black;
+   float: right;
+   font-size: 30px;
+   margin-right: 20px;
+ 
+}
+.div-4  h6{
+    margin-left: 20px;
+    font-size: 17px;
+    color: gray;
+
+}
+.div-4 h6 span{
+color: gray;
+float: right;
+margin-right: -40px;
+
+}
+.div-4 .aa{
+    color: black;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.div-4 h1 span{
+    float: right;
+    margin-right: 20px;
+    font-size: 29px;
+    color: green;
+
+}
+.div-4 h2{
+    font-size: 18px;
+    margin-left: 20px;
+    color: gray;
+}
+.div-4 h2 span{
+    float: right;
+    margin-right: -40px;
+}
+.cont h4{
+    color: black;
+}
+.cont h4 span{
+    float: right;
+    margin-right: 20px;
+    font-size: 30px;
+    color: red;
+}
+.cont h3 {
+    font-size:20px ;
+    margin-top: -20px;
+    color: gray;
+}
+.cont h3 span{
+    float: right;
+    margin-right: -45px;
+    font-size: 20px;
+}
+.cont button{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.div-5{
+    width: 600px;
+    height: 500px;
+    background-color:white;
+    margin-left: 810px;
+    margin-top: -480px;
+    border: 1px solid #bec2c0;
+}
+.div-5 h2{
+    margin-left: 20px;
+    padding-top: 19px;
+}
+
+.div-5 h5{
+    color: gray;
+    margin-left: 20px;
+}
+.div-5 img{
+    height: 50px;
+    width: 50px;
+    margin-left: 20px;
+    border-radius: 40px;
+    margin-top: 20px;
+}
+.div-5 a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+
+   
+}
+.div-5 a span{
+    color: gray;
+    float: right;
+    margin-right: 20px ;
+    font-size: 15px;
+    margin-top: 30px;
+}
+
+.div-5 h3{
+    font-size: 17px;
+    margin-left: 90px;
+    margin-top: -20px;
+}
+.div-5 h3 a {
+    color: blue;
+    margin-left: 1px;
+}
+.nav-link {
+  font-size: 20px;
+
+}
+.cont{
+    margin-top: 17px;
+    margin-left: 10px;
+}
+.dropdown-menu  #a:hover{
+  background-color: red;
+}
+.item1 { grid-area: header; }
+.item2 { grid-area: menu; }
+.item3 { grid-area: main; }
+
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+   'menu header header header '
+   'menu main main main ';
+  gap: 10px;
+
+  padding: 10px;
+}
+.navbar {
+    width: 1700px;
+}
+.div-6{
+    height: 750px;
+    width: 340px;
+    background-color:#212121;
+    position: fixed;
+    margin-left: -10px;
+}
+
+.content img{
+    height: 120px;
+    width: 120px;
+    margin-left: 80px;
+    border-radius: 90px;
+}
+.content h2{
+    margin-left: 70px;
+    color: white;
+    font-size: 25px;
+    margin-top: 5px;
+}
+.content i{
+    font-size: 25px;
+    margin-left: 20px;
+    color: aliceblue;
+ 
+}
+.content a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;  
+}
+.content  hr{
+    color: white;
+}
+.iconss i{
+    margin-top: 30px;
+    color: aliceblue;
+
+}
+.div-7 span{
+    margin-left: 40px;
+
+}
+.dropdown-menu {
+    color: aliceblue;
+    font-size: 20px;
+
+}
+.iconsss i{
+    margin-top: 20px;
+} 
+.iconssss i{
+    margin-top: 20px;
+} 
+.a-content i{
+    margin-top: 15px;
+    margin-left: 40px;
+
+}
+.a-content a{
+    color:aliceblue;
+    font-weight: 400;
+  
+}
+hr{
+    position: fixed;
+}
+.section-5{
+    height: 1300px;
+    width: 100%;
+    background-color: #f3f2f2;
+}
+.text-area h2{
+    font-size: 40px;
+    font-weight: 500;
+    margin-top: 70px;
+    margin-left: -40px;
+}
+.text-area button{
+   margin-left: 1100px;
+    margin-top: -80px;
+}
+.card button{
+    height: 80px;
+    width: 120px;
+    background-color: rgb(185, 168, 168);
+    border: #212121;
+    margin-left: 250px; 
+    margin-top: -20px;
+}
+.card-body img{
+    height: 160px;
+    width: 397px;
+    margin-left: -16px;
+    margin-top: 18px;
+   
+}
+.v a{
+    font-size: 30px;
+   text-decoration: none;
+   color: black;
+   font-weight: 500;
+   
+}
+.text-body-secondary {
+    font-weight: 700;
+    margin-top: 10px;
+}
